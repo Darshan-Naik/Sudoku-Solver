@@ -88,7 +88,7 @@ button{
 }
 button{
     border: none;
-    padding: 10px 15px;
+    padding: 5px 15px;
     box-shadow: 2px 2px 2px teal;
     border-radius: 2px;
     cursor: pointer;
