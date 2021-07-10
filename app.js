@@ -228,7 +228,14 @@ async function solveSudoku(matrix, row = 0, col = 0) {
     return true;
   }
   if (matrix[row][col] !== 0) {
-    return solveSudoku(matrix, row, col + 1);
+    let val = matrix[row][col];
+    matrix[row][col] =0;
+    if (isSafe(matrix, row, col, val)) {
+      matrix[row][col] =val;
+      return solveSudoku(matrix, row, col + 1);
+    } 
+    matrix[row][col] = val;
+    return false;
   }
 
   for (let i = 1; i <= 9; i++) {
