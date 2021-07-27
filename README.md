@@ -3,8 +3,7 @@
 
 An application that solves sudoku puzzles.
 
-## A solo algorithmic project built using recursion and
-backtracking.
+## A solo algorithmic project built using recursion and backtracking.
 
 
 ## How to run the project 📑
