@@ -1,3 +1,4 @@
+
 # Sudoku-Solver
 
 An application that solves sudoku puzzles.
@@ -34,5 +35,5 @@ just follow the below steps:
 
 ## Snapshot 📷
 
-
+![sudoku](https://user-images.githubusercontent.com/77038690/127120886-725b1cdf-5db9-4a8d-bd0c-11d06ebcd5ab.jpg)
 
