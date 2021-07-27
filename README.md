@@ -28,10 +28,10 @@ just follow the below steps:
 
 #Features
 
--Auto solves 9 by 9 sudoku puzzles.
--Allows users to solve a puzzle.
--A user can post his/her own puzzles.
--Allows users to chage the solution visulization speed.
+- Auto solves 9 by 9 sudoku puzzles.
+- Allows users to solve a puzzle.
+- A user can post his/her own puzzles.
+- Allows users to chage the solution visulization speed.
 
 ## Snapshot 📷
 
