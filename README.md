@@ -25,7 +25,7 @@ just follow the below steps:
 - CSS  :- Cascading Style Sheet
 - JS :-JavaScript
 
-#Features
+# Features
 
 - Auto solves 9 by 9 sudoku puzzles.
 - Allows users to solve a puzzle.
